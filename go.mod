@@ -343,4 +343,4 @@ replace (
 	k8s.io/sample-controller => k8s.io/sample-controller v0.34.0
 )
 
-replace github.com/argoproj/notifications-engine => github.com/soutar/notifications-engine v0.0.0-20260123212538-100f806a7e41
+replace github.com/argoproj/notifications-engine => github.com/soutar/notifications-engine v0.0.0-20260722074222-ff6bc7199124
